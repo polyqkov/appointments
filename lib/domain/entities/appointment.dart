@@ -1,4 +1,4 @@
-import 'package:appointments/domain/entities/service.dart';
+import 'service.dart';
 
 class Appointment {
   final List<Service> services;

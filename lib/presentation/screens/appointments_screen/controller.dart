@@ -1,7 +1,7 @@
-import 'package:appointments/domain/entities/appointment.dart';
-import 'package:appointments/domain/entities/certificate.dart';
-import 'package:appointments/domain/repos/certificate_repo.dart';
-import 'package:appointments/domain/repos/service_repo.dart';
+import '../../../domain/entities/appointment.dart';
+import '../../../domain/entities/certificate.dart';
+import '../../../domain/repos/certificate_repo.dart';
+import '../../../domain/repos/service_repo.dart';
 import 'package:get/get.dart';
 
 import '../../../common/injector/app_injector.dart';

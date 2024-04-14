@@ -1,4 +1,4 @@
-import 'package:appointments/presentation/screens/appointments_screen/view.dart';
+import 'screens/appointments_screen/view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
